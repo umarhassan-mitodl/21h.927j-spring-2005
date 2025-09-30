@@ -5,6 +5,8 @@ description: Data accompanying a student research paper on changes in non-food h
 file: /courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/4d20948d5a73e31fa269c1efc1a3903d_MIT21H_927JS05_fnl_rsltanony.pdf
 file_size: 566673
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
